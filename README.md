@@ -21,7 +21,7 @@ Este projeto é um clone do Buzzfeed desenvolvido com Angular, permitindo aos us
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/projeto-buzzfeed.git
+   git clone https://github.com/melissavalentindev/clone-buzzfeed.git
    cd projeto-buzzfeed
    ```
 
